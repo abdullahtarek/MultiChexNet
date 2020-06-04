@@ -17,3 +17,4 @@ You Can use this repo to train your independent model, whether it is classificat
 
 
 ## Dataset
+Link : https://www.kaggle.com/nih-chest-xrays/data
